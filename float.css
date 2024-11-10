@@ -1,0 +1,14 @@
+/* Images Style for Float */
+img#floatRight {
+    float: right;
+}
+
+img#floatLeft {
+    float: left;
+}
+
+/* Images Style General */
+img {
+    height: 100px;
+    width: 100px;
+}
